@@ -1,0 +1,15 @@
+What are the difference betweeen HTTP1 AND HTTP 2  
+HTTP1: 
+      it is a application protocol that is used for standard communication since 1989
+ HTTP2:
+      it is the major version .it allows the devloper to customise  the polarization
+difference between HTTP1 & HTTP2
+HTTP1
+  1-its usess many TCPconnection
+  2-it loads resources one after other
+  3-so if one resources cannot be loaded it blocks all resources
+
+  HTTP2
+1-it uses many TCPconnection
+2-it load every resources in single step
+3 it dont blocks any resources    
